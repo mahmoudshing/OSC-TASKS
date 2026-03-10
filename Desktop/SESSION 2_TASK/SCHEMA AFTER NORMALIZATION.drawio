@@ -1,0 +1,194 @@
+<mxfile host="65bd71144e">
+    <diagram id="UoeU4PrardWmOt9I1qMQ" name="Page-1">
+        <mxGraphModel dx="1622" dy="563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="20" value="&lt;u&gt;WARD_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-30" y="310" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" value="WARD_NAME" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="310" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" value="&lt;u&gt;PATIENT_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-30" y="430" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="PATIENT_NAME" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="90" y="430" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="74" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="30" y="350" as="targetPoint"/>
+                        <mxPoint x="250" y="430" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="250" y="391"/>
+                            <mxPoint x="30" y="391"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="27" value="WARD_ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="210" y="430" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="67" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="28" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="30" y="720" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="480" y="460"/>
+                            <mxPoint x="480" y="740"/>
+                            <mxPoint x="30" y="740"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="28" value="CONSULTANT_ID" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="330" y="430" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" value="WARD" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-40" y="270" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="PATIENT" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-50" y="390" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" value="&lt;u&gt;NURSE_NUMBER&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-20" y="560" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="NURSE_NAME" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="560" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="33" value="NURSE_ADDRESS" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="220" y="560" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="34" value="NURSE" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-30" y="520" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" value="&lt;u&gt;CONSULTANT_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-20" y="680" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="36" value="CONSULTANT_NAME" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="680" width="130" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="38" value="CONSULTANT" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-30" y="640" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="39" value="&lt;u&gt;CODE_NUMBER&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-15" y="810" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="40" value="RECOMMENDED DOSAGE" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="105" y="810" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="42" value="DRUG" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-25" y="770" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="75" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="43" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="-40" y="440" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="-149" y="1245"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="43" value="&lt;u&gt;PATIENT_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-50" y="1230" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="77" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="44" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="70" y="600" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="130" y="1161"/>
+                            <mxPoint x="280" y="1161"/>
+                            <mxPoint x="280" y="650"/>
+                            <mxPoint x="70" y="650"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="44" value="&lt;u&gt;NURSE_NUMBER&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="1230" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="78" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="45" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="70" y="850" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="250" y="1050"/>
+                            <mxPoint x="211" y="1050"/>
+                            <mxPoint x="211" y="890"/>
+                            <mxPoint x="70" y="890"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="45" value="&lt;u&gt;CODE_NUMBER&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="190" y="1230" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="46" value="GIVES" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-60" y="1190" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="69" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="47" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="70" y="720" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="40" y="1180"/>
+                            <mxPoint x="400" y="1180"/>
+                            <mxPoint x="400" y="770"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="47" value="&lt;u&gt;CONSULTANT_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-20" y="1090" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="68" style="edgeStyle=orthogonalEdgeStyle;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="48" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint y="470" as="targetPoint"/>
+                        <Array as="points">
+                            <mxPoint x="160" y="1140"/>
+                            <mxPoint x="-70" y="1140"/>
+                            <mxPoint x="-70" y="490"/>
+                            <mxPoint y="490"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="48" value="&lt;u&gt;PATIENT_ID&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="100" y="1090" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="50" value="EXAMINE" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-30" y="1050" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="51" value="&lt;u&gt;CODE_NUM&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="-50" y="960" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="52" value="&lt;u&gt;BRAND_NAME&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="70" y="960" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="54" value="DRUG BRAND" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="-60" y="910" width="60" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="56" style="edgeStyle=none;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.198;entryY=1.107;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="51" target="39" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="72" value="&lt;u&gt;DATE&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="310" y="1230" width="115" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="73" value="&lt;u&gt;TIME&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="425" y="1230" width="115" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="79" value="DATE OF BRITH" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="450" y="430" width="120" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="80" value="&lt;u&gt;DOSAGE_GIVEN&lt;/u&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="540" y="1230" width="115" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="82" style="edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="60" y="340" as="targetPoint"/>
+                        <mxPoint x="450" y="565" as="sourcePoint"/>
+                        <Array as="points">
+                            <mxPoint x="621" y="565"/>
+                            <mxPoint x="621" y="370"/>
+                            <mxPoint x="60" y="370"/>
+                        </Array>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="81" value="WARD_ID" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+                    <mxGeometry x="340" y="560" width="110" height="30" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
